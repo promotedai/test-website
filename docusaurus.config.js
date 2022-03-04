@@ -9,7 +9,7 @@ const config = {
   title: 'Promoted',
   tagline: 'Marketplace optimization',
   url: 'https://promotedai.github.io',
-  baseUrl: '/',
+  baseUrl: '/test-website/',
   projectName: 'promotedai.github.io',
   organizationName: 'promotedai',
   deploymentBranch: 'main',
