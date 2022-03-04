@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Intro'
+title: 'How to get started with Promoted?'
 sidebar_position: 1
 ---
 
