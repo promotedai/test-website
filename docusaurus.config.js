@@ -15,7 +15,7 @@ const config = {
   deploymentBranch: 'main',
   trailingSlash: false,
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
 
   presets: [
@@ -67,6 +67,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
+          {to: '/api', label: 'API', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
